@@ -46,7 +46,7 @@
     "href": "course-syllabus.html#learning-objectives",
     "title": "Syllabus",
     "section": "Learning objectives",
-    "text": "Learning objectives\nThis course teaches you the fundamentals of\nBy the end of the semester, you will be able to…"
+    "text": "Learning objectives\nThis course teaches you the fundamentals of data visualization and how to communicate effectively with data using Python. With visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.\nBy the end of the semester, you will be able to…\n\nUnderstand the importance of context and audience\nDetermine the appropriate type of graph for your situation\nRecognize and eliminate the clutter clouding your information\nDirect your audience’s attention to the most important parts of your data\nThink like a designer and utilize concepts of design in data visualization\nLeverage the power of storytelling to help your message resonate with your audience\nuse Python to analyze, prepare and visualize data\ncreate dashboards with Streamlit and reports in Quarto"
   },
   {
     "objectID": "course-syllabus.html#where-to-get-help",
@@ -60,7 +60,7 @@
     "href": "course-syllabus.html#textbooks",
     "title": "Syllabus",
     "section": "Textbooks",
-    "text": "Textbooks\nThis course is mainly based on the following resources:"
+    "text": "Textbooks\nThis course is mainly based on the following resources:\nAvailable as E-Books in the HdM library:\n\n“Storytelling with Data: A Data Visualization Guide for Business Professionals” by Cole Nussbaumer Knaflic.\n“Storytelling mit Daten: Die Grundlagen der effektiven Kommunikation und Visualisierung mit Daten” von Cole Nussbaumer Knaflic.\n“Storytelling with Data : Let’s Practice!” by Cole Nussbaumer Knaflic.\n\nAvailable as free online books:\n\nIntroduction to Modern Statistics by Mine Çetinkaya-Rundel and Johanna Hardin\nPython for Data Analysis, 3E by Wes McKinney"
   },
   {
     "objectID": "course-syllabus.html#lectures",
@@ -109,14 +109,14 @@
     "href": "project-description.html",
     "title": "Project description",
     "section": "",
-    "text": "Topic\nDeadline\nGitHub folder & hints\n\n\n\n\nTopic ideas\nFri, Oct 28\nreferences/\n\n\nProject proposal\nFri, 2 Dec\nreferences/\n\n\nProject draft\nFri, Dec 9\nnotebooks/\n\n\nPeer review\nFri, Dec 16\nuse \n\n\nReport\nFr, Feb 3\nreports/\n\n\nSlides\nFri, Feb 10\nreports/\n\n\nGitHub repo\nFri, Feb 10\n“Repo in final state”\n\n\nComments\nWe, Feb 15\n“Comment in Moodle”\n\n\nSurvey\nFri,Feb 17\n“Fill out survey”"
+    "text": "Topic\nDeadline\nGitHub folder & hints\n\n\n\n\nTopic ideas\nFr., Oct 13\nreferences/\n\n\nProject proposal\nFri, 27 Oct\nreferences/\n\n\nProject draft\nFri, Nov 17\nnotebooks/\n\n\nPeer review\nFri, Dec 1\nuse \n\n\nReport\nFr, Jan 19\nreports/\n\n\nSlides\nFri, Feb 10\nreports/\n\n\nGitHub repo\nFri, Jan 26\n“Repo in final state”\n\n\nComments\nWe, Feb 15\n“Comment in Moodle”\n\n\nPresentation\nMo, Jan 29\n“Present”\n\n\nSurvey\nFri, Jan 2\n“Fill out survey”"
   },
   {
     "objectID": "project-description.html#timeline",
     "href": "project-description.html#timeline",
     "title": "Project description",
     "section": "",
-    "text": "Topic\nDeadline\nGitHub folder & hints\n\n\n\n\nTopic ideas\nFri, Oct 28\nreferences/\n\n\nProject proposal\nFri, 2 Dec\nreferences/\n\n\nProject draft\nFri, Dec 9\nnotebooks/\n\n\nPeer review\nFri, Dec 16\nuse \n\n\nReport\nFr, Feb 3\nreports/\n\n\nSlides\nFri, Feb 10\nreports/\n\n\nGitHub repo\nFri, Feb 10\n“Repo in final state”\n\n\nComments\nWe, Feb 15\n“Comment in Moodle”\n\n\nSurvey\nFri,Feb 17\n“Fill out survey”"
+    "text": "Topic\nDeadline\nGitHub folder & hints\n\n\n\n\nTopic ideas\nFr., Oct 13\nreferences/\n\n\nProject proposal\nFri, 27 Oct\nreferences/\n\n\nProject draft\nFri, Nov 17\nnotebooks/\n\n\nPeer review\nFri, Dec 1\nuse \n\n\nReport\nFr, Jan 19\nreports/\n\n\nSlides\nFri, Feb 10\nreports/\n\n\nGitHub repo\nFri, Jan 26\n“Repo in final state”\n\n\nComments\nWe, Feb 15\n“Comment in Moodle”\n\n\nPresentation\nMo, Jan 29\n“Present”\n\n\nSurvey\nFri, Jan 2\n“Fill out survey”"
   },
   {
     "objectID": "project-description.html#introduction",
@@ -187,6 +187,13 @@
     "title": "Project description",
     "section": "Presentation comments",
     "text": "Presentation comments\nEach student will be assigned 2 presentations to watch (your viewing assignments will be posted later in the semester)\nWatch the group’s video, then use the Moodle Forum to post a question for the group. You may not post a question that’s already been asked on the discussion thread.\nAdditionally, the question should be\n\nsubstantive (i.e. it shouldn’t be “Why did you use a bar plot instead of a pie chart”?)\ndemonstrate your understanding of the content from the course, and\nrelevant to that group’s specific presentation, i.e demonstrating that you’ve watched the presentation.\n\nThis portion of the project will be assessed individually."
+  },
+  {
+    "objectID": "project-description.html#sec-presentation",
+    "href": "project-description.html#sec-presentation",
+    "title": "Project description",
+    "section": "Presentation",
+    "text": "Presentation\nYou will present your work in the last week of the semester."
   },
   {
     "objectID": "project-description.html#sec-team-eval",
