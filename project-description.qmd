@@ -8,15 +8,16 @@ title: "Project description"
 
 | Topic                 | Deadline      | GitHub folder & hints |
 | ---                   | ---           |  ---                  |
-|[Topic ideas](@sec-topic-ideas)        | Fri, Oct 28   | references/           |
-|[Project proposal](@sec-project-proposal)   | Fri, 2 Dec   | references/           |
-|[Project draft](@sec-draft-analysis)     | Fri, Dec 9    | notebooks/            |
-|[Peer review](@sec-peer-review-draft)  | Fri, Dec 16   | use [](issue-template)|
-|[Report](@sec-report)             | Fr, Feb 3     | reports/              |
+|[Topic ideas](@sec-topic-ideas)        | Fr., Oct 13   | references/           |
+|[Project proposal](@sec-project-proposal)   | Fri, 27 Oct   | references/           |
+|[Project draft](@sec-draft-analysis)     | Fri, Nov 17    | notebooks/            |
+|[Peer review](@sec-peer-review-draft)  | Fri, Dec 1   | use [](issue-template)|
+|[Report](@sec-report)             | Fr, Jan 19     | reports/              |
 |[Slides](@sec-slides-video)       | Fri, Feb 10   | reports/              |
-|[GitHub repo](@sec-github-repo)      | Fri, Feb 10   | "Repo in final state" |
+|[GitHub repo](@sec-github-repo)      | Fri, Jan 26   | "Repo in final state" |
 |[Comments](@sec-comments)          | We, Feb 15    | "Comment in Moodle"   |
-|[Survey](@sec-team-eval  )        | Fri,Feb 17    | "Fill out survey"     |
+|[Presentation](@sec-presentation  )        | Mo, Jan 29    | "Present"     |
+|[Survey](@sec-team-eval  )        | Fri, Jan 2    | "Fill out survey"     |
 
 
 ## Introduction
@@ -377,6 +378,10 @@ Additionally, the question should be
 
 *This portion of the project will be assessed individually.*
 
+
+## Presentation {#sec-presentation}
+
+You will present your work in the last week of the semester.
 
 ## Teamwork evaluation {#sec-team-eval}
 
