@@ -17,10 +17,19 @@ title: "Syllabus"
 
 ## Learning objectives
 
-This course teaches you the fundamentals of 
+
+This course teaches you the fundamentals of data visualization and how to communicate effectively with data using Python. With visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
 By the end of the semester, you will be able to...
 
+- Understand the importance of context and audience
+- Determine the appropriate type of graph for your situation
+- Recognize and eliminate the clutter clouding your information
+- Direct your audience's attention to the most important parts of your data
+- Think like a designer and utilize concepts of design in data visualization
+- Leverage the power of storytelling to help your message resonate with your audience
+- use Python to analyze, prepare and visualize data 
+- create dashboards with Streamlit and reports in Quarto
 
 
 
@@ -34,7 +43,26 @@ Check out the [Support](course-support.qmd) page for more resources.
 
 ## Textbooks
 
+
 This course is mainly based on the following resources:
+
+*Available as E-Books in the [HdM library](https://www.hdm-stuttgart.de/bibliothek/angebot/eBooks):*
+
+- "Storytelling with Data: A Data Visualization Guide for Business Professionals" by Cole Nussbaumer Knaflic. 
+
+- "Storytelling mit Daten: Die Grundlagen der effektiven Kommunikation und Visualisierung mit Daten" von Cole Nussbaumer Knaflic.
+
+- "Storytelling with Data : Let's Practice!" by Cole Nussbaumer Knaflic. 
+
+*Available as free online books:*
+
+
+- [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by Mine Çetinkaya-Rundel and Johanna Hardin
+
+
+- [Python for Data Analysis, 3E](https://wesmckinney.com/book/) by Wes McKinney
+
+
 
 
 
