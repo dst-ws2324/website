@@ -161,7 +161,7 @@ Only work that is clearly assigned as team work should be completed collaborativ
 
 -   The *homework* assignments must be completed individually and you are welcomed to discuss the assignment with classmates at a high level (e.g., discuss what's the best way for approaching a problem, what functions are useful for accomplishing a particular task, etc.). However you may not directly share answers to homework questions (including any code) with anyone other than myself and the teaching assistants.
 
--   For the *projects*, collaboration within teams is not only allowed, but expected. Communication between teams at a high level is also allowed however you may not share code or components of the project across teams.
+-   For the *projects*, collaboration within teams is not only allowed, but expected (use GitHub Projects). Communication between teams at a high level is also allowed however you may not share code or components of the project across teams.
 
 
 ### Policy on sharing and reusing code
