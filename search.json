@@ -116,7 +116,7 @@
     "href": "course-syllabus.html#grading",
     "title": "Syllabus",
     "section": "8 Grading",
-    "text": "8 Grading\nThe final course grade will be calculated as follows:\n\n\n\nCategory\nPoints\n\n\n\n\nData Literacy Course\n15\n\n\nHomework\n25\n\n\nProject\n60\n\n\n\nThe final grade will be determined based on the following thresholds:\n\n\n\nGrade\nFinal Course Grade\n\n\n\n\n1.0\n96 - 100\n\n\n1.3\n91 - 95\n\n\n1.7\n85 - 90\n\n\n2.0\n80 - 84\n\n\n2.3\n75 - 79\n\n\n2.7\n70 - 74\n\n\n3.0\n65 - 69\n\n\n3.3\n60 - 64\n\n\n3.7\n55 - 59\n\n\n4.0\n50 - 54\n\n\n4.7\n15 - 49\n\n\n5.0\n0 - 14"
+    "text": "8 Grading\nThe final course grade will be calculated as follows:\n\n\n\nCategory\nPoints\n\n\n\n\nData Literacy Course\n15\n\n\nHomework\n20\n\n\nProject\n65\n\n\n\nThe final grade will be determined based on the following thresholds:\n\n\n\nGrade\nFinal Course Grade\n\n\n\n\n1.0\n96 - 100\n\n\n1.3\n91 - 95\n\n\n1.7\n85 - 90\n\n\n2.0\n80 - 84\n\n\n2.3\n75 - 79\n\n\n2.7\n70 - 74\n\n\n3.0\n65 - 69\n\n\n3.3\n60 - 64\n\n\n3.7\n55 - 59\n\n\n4.0\n50 - 54\n\n\n4.7\n15 - 49\n\n\n5.0\n0 - 14"
   },
   {
     "objectID": "course-syllabus.html#course-policies",
@@ -200,14 +200,21 @@
     "href": "project-description.html#introduction",
     "title": "Project description",
     "section": "Introduction",
-    "text": "Introduction\nTL;DR: Pick a data set and use the concepts and methods covered in our course to effectively analyze and communicate your findings. That is your final project.\nThe goal of the final project is for you to analyze a data set of your own choosing and effectively communicate the results (using the concepts and technology we covered in this course). The data set may already exist or you may collect your own data.\nChoose the data based on your group’s interests or work you all have done in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like) and apply them to a data set to analyze and communicate it in a meaningful way.\nAll analyses must be done in Python, and all components of the project must be reproducible (with the exception of the final presentation) placed inside the provided GitHub repo."
+    "text": "Introduction\nTL;DR: Pick a data set and use the concepts and methods covered in our course to effectively analyze and communicate your findings. That is your final project.\nThe goal of the final project is for you to analyze a data set of your own choosing and effectively communicate the results (using the concepts and technology we covered in this course). The data set may already exist or you may collect your own data.\nChoose the data based on your group’s interests or work you all have done in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like) and apply them to a data set to analyze and communicate it in a meaningful way.\nAll analyses must be done in Python, and all components of the project must be reproducible (with the exception of the final presentation) placed inside the repos of your GitHub Organization (organizations are shared accounts where you can collaborate across many projects at once)."
   },
   {
-    "objectID": "project-description.html#logistics",
-    "href": "project-description.html#logistics",
+    "objectID": "project-description.html#github-organization",
+    "href": "project-description.html#github-organization",
     "title": "Project description",
-    "section": "Logistics",
-    "text": "Logistics\nYou will work on the project with your team.\nOne team member should create a new GitHub organization (organizations are shared accounts where you can collaborate across many projects at once) and invite all other team members and me (my GitHub name is kirenz) to the organization. Also import this Project template to the organization.\nThe primary deliverables for the final project are\n\nA draft analysis (“draft-analysis.ipynb”)\nA written, reproducible report detailing your analysis (“report.ipynb”)\nA GitHub repository corresponding to your report\nSlides + a video presentation\nFormal peer review on another team’s project"
+    "section": "GitHub Organization",
+    "text": "GitHub Organization\nYou will work on the project with your team.\n\nOne team member should create a new GitHub organization and invite all other team members and me (my GitHub name is kirenz) to the organization.\n\nCreate a GitHub Project in your organization\nImport this Project template to your organization."
+  },
+  {
+    "objectID": "project-description.html#primarydeliverables",
+    "href": "project-description.html#primarydeliverables",
+    "title": "Project description",
+    "section": "Primarydeliverables",
+    "text": "Primarydeliverables\nThe primary deliverables for the final project are\n\nA draft analysis (“draft-analysis.ipynb”)\nA written, reproducible report detailing your analysis (“report.ipynb”)\nA GitHub repository corresponding to your report\nSlides + a video presentation\nFormal peer review on another team’s project"
   },
   {
     "objectID": "project-description.html#sec-topic-ideas",
@@ -228,7 +235,7 @@
     "href": "project-description.html#sec-draft-analysis",
     "title": "Project description",
     "section": "Draft analysis",
-    "text": "Draft analysis\nThe purpose of the draft analysis is to give you an opportunity to get early feedback on your project. Each team should push their final version of the draft analysis to their GitHub repo by the due date.\nThe structure of the draft analysis is as follows:\n- Introduction\n- Setup\n- Data\n    - Import data\n    - Data structure\n    - Data corrections\n- Analysis\n    - Descriptive statistics\n    - Exploratory analysis\n- Visualizations\n    - Visualization ideas\n    - Save visualizations    \n- Conclusion and recommended action\nBelow is a brief description of the sections to focus on in the draft.\n\nIntroduction: This section includes an introduction to the project motivation, a data dictionary and (research) question.\nSetup: Import all necessary Python libraries.\nData: Includes all data prepartion steps.\nAnalysis: Descriptive statistics and EDA. Interpret the results.\nVisualizations: Includes multiple visualization ideas.\nConclusion and recommended action: This section includes initial interpretations and conclusions drawn from the model."
+    "text": "Draft analysis\nThe purpose of the draft analysis is to give you an opportunity to get early feedback on your project. Each team should push their final version of the draft analysis to their GitHub repo by the due date.\nThe structure of the draft analysis is as follows:\n- Introduction\n- Setup\n- Data\n    - Import data\n    - Data structure\n    - Data corrections\n- Analysis\n    - Descriptive statistics\n    - Exploratory analysis\n- Visualizations\n    - Visualization ideas\n    - Save visualizations    \n- Conclusion and recommended action\nBelow is a brief description of the sections to focus on in the draft.\n\nIntroduction: This section includes an introduction to the project motivation, a data dictionary and (research) question.\nSetup: Import all necessary Python libraries.\nData: Includes all data prepartion steps.\nAnalysis: Descriptive statistics and EDA. Interpret the results.\nVisualizations: Includes multiple visualization ideas.\nConclusion and recommended action: This section includes initial interpretations and conclusions drawn from the data."
   },
   {
     "objectID": "project-description.html#sec-peer-review-draft",
