@@ -117,8 +117,8 @@ The final course grade will be calculated as follows:
 | Category              | Points      |
 |-----------------------|-----------------|
 | Data Literacy Course  | 15             |
-| Homework              | 25             |
-| Project               | 60             |
+| Homework              | 20             |
+| Project               | 65             |
 
 
 The final grade will be determined based on the following thresholds:
