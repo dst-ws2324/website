@@ -268,7 +268,9 @@ All of the EDA won't fit in the paper, so focus on the EDA for the response vari
 
 The research question and motivation are clearly stated in the introduction, including citations for the data source and any external research.
 The data are clearly described, including a description about how the data were originally collected and a concise definition of the variables relevant to understanding the report.
+
 The data cleaning process is clearly described, including any decisions made in the process (e.g., creating new variables, removing observations, etc.) The explanatory data analysis helps the reader better understand the observations in the data along with interesting and relevant relationships between the variables.
+
 It incorporates appropriate visualizations and summary statistics.
 
 ### Visualizations
@@ -288,6 +290,7 @@ If violations of optimal visualization conditions are still present, there was a
 ### Conclusion + recommended action
 
 In this section you'll include a summary of what you have learned about your (research) question along with (statistical) arguments supporting your conclusions.
+
 In addition, discuss the limitations of your analysis and provide suggestions on ways the analysis could be improved.
 
 Any potential issues pertaining to the reliability and validity of your data and appropriateness of the statistical analysis should also be discussed here.
@@ -356,7 +359,7 @@ Once your video is ready, upload the video to Moodle.
 
 ## GitHub repo {#sec-github-repo}
 
-All written work (with exception of presentation slides) should be reproducible, and the GitHub repo should be neatly organized.
+All written work (with exception of presentation slides) should be reproducible, and the GitHub repo should be neatly organized. Use GitHub Project to organize your team work.
 
 :::{Note}
 Do not change the content or structure of the repo after the stated deadline. 
