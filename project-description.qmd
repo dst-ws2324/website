@@ -24,17 +24,17 @@ title: "Project description"
 
 **TL;DR**: *Pick a data set and use the concepts and methods covered in our course to effectively analyze and communicate your findings. That is your final project.*
 
-The goal of the final project is for you to analyze a data set of your own choosing and effectively communicate the results (using the concepts and technology we covered in this course).
-The data set may already exist or you may collect your own data.
+The goal of the final project is for you to analyze a data set of your own choosing and effectively communicate the results (using the concepts and technology we covered in this course). The data set may already exist or you may collect your own data.
 
-Choose the data based on your group's interests or work you all have done in other courses or research projects.
-The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like) and apply them to a data set to analyze and communicate it in a meaningful way.
+Choose the data based on your group's interests or work you all have done in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like) and apply them to a data set to analyze and communicate it in a meaningful way.
 
 All analyses must be done in Python, and all components of the project **must be reproducible** (with the exception of the final presentation) placed inside the provided GitHub repo.
 
 ## Logistics
 
-You will work on the project with your team. Use the provided Github-repo and template files for your project. 
+You will work on the project with your team. 
+
+One team member should create a new **GitHub organization** (organizations are shared accounts where you can collaborate across many projects at once) and invite all other team members and me (my GitHub name is `kirenz`) to the organization. Also import this [Project template](https://github.com/dst-ws2324/project) to the organization.
 
 The primary deliverables for the final project are
 
@@ -43,7 +43,6 @@ The primary deliverables for the final project are
 -   A GitHub repository corresponding to your report
 -   Slides + a video presentation
 -   Formal peer review on another team's project
-
 
 
 ## Topic ideas {#sec-topic-ideas}
