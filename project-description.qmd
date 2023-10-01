@@ -28,13 +28,18 @@ The goal of the final project is for you to analyze a data set of your own choos
 
 Choose the data based on your group's interests or work you all have done in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like) and apply them to a data set to analyze and communicate it in a meaningful way.
 
-All analyses must be done in Python, and all components of the project **must be reproducible** (with the exception of the final presentation) placed inside the provided GitHub repo.
+All analyses must be done in Python, and all components of the project **must be reproducible** (with the exception of the final presentation) placed inside the repos of your GitHub Organization (organizations are shared accounts where you can collaborate across many projects at once).
 
-## Logistics
+## GitHub Organization
 
 You will work on the project with your team. 
 
-One team member should create a new **GitHub organization** (organizations are shared accounts where you can collaborate across many projects at once) and invite all other team members and me (my GitHub name is `kirenz`) to the organization. Also import this [Project template](https://github.com/dst-ws2324/project) to the organization.
+1. One team member should create a new **GitHub organization** and invite all other team members and me (my GitHub name is `kirenz`) to the organization.  
+2. Create a [GitHub Project](https://kirenz.github.io/lab-toolkit/github.html#github-projects) in your organization
+3. Import this [Project template](https://github.com/dst-ws2324/project) to your organization.
+
+
+## Primarydeliverables
 
 The primary deliverables for the final project are
 
@@ -151,7 +156,7 @@ Below is a brief description of the sections to focus on in the draft.
 
 - *Visualizations*: Includes multiple visualization ideas. 
 
-- *Conclusion and recommended action*: This section includes initial interpretations and conclusions drawn from the model.
+- *Conclusion and recommended action*: This section includes initial interpretations and conclusions drawn from the data.
 
 
 ## Peer review draft analysis {#sec-peer-review-draft}
