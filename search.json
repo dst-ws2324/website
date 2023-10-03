@@ -4,7 +4,7 @@
     "href": "course-overview.html",
     "title": "Course overview",
     "section": "",
-    "text": "Data storytelling is a pivotal skill in the modern data-driven world, acting as a bridge between raw data and meaningful insights. It entails the use of visual elements and narrative techniques to convey complex data insights in an engaging and understandable manner. By transforming dry figures into compelling stories, data storytelling not only simplifies the understanding of complex analyses but also captivates the audience’s attention, making the data memorable and impactful. It fosters a deeper connection between the data and the audience, enabling better decision-making and promoting a culture of informed, data-driven discourse within organizations and the broader community. Through data storytelling, we harness the power of both analytical and creative thinking to derive and communicate meaningful insights from the data, fostering a richer comprehension and appreciation of the stories that data unfolds.\nThis course teaches you the fundamentals of data visualization and how to communicate effectively with data using Python. With visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data."
+    "text": "Data storytelling is a pivotal skill in the modern data-driven world, acting as a bridge between raw data and meaningful insights. It entails the use of visual elements and narrative techniques to convey complex data insights in an engaging and understandable manner.\nBy transforming dry figures into compelling stories, data storytelling not only simplifies the understanding of complex analyses but also captivates the audience’s attention, making the data memorable and impactful. It fosters a deeper connection between the data and the audience, enabling better decision-making and promoting a culture of informed, data-driven discourse within organizations and the broader community.\nThrough data storytelling, we harness the power of both analytical and creative thinking to derive and communicate meaningful insights from the data, fostering a richer comprehension and appreciation of the stories that data unfolds.\nThis course teaches you the fundamentals of data visualization and how to communicate effectively with data using Python. With visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data."
   },
   {
     "objectID": "course-links.html",
@@ -60,21 +60,21 @@
     "href": "course-syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "| Day       | Time              | Location |\n|———–|———–|——————-|———-| | Kick-off | 25.09.-27.09 | 09:00 - 17:00 | S202 | | Lecture | Monday | 10:00 - 11:30 | S202 |"
+    "text": "Day\nTime\nLocation\n\n\n\n\nKick-off\n25.09.-27.09, 09:00 - 17:00\nS202\n\n\nLecture\nMonday, 10:00 - 11:30\nS202"
   },
   {
     "objectID": "course-syllabus.html#course-info",
     "href": "course-syllabus.html#course-info",
     "title": "Syllabus",
     "section": "",
-    "text": "| Day       | Time              | Location |\n|———–|———–|——————-|———-| | Kick-off | 25.09.-27.09 | 09:00 - 17:00 | S202 | | Lecture | Monday | 10:00 - 11:30 | S202 |"
+    "text": "Day\nTime\nLocation\n\n\n\n\nKick-off\n25.09.-27.09, 09:00 - 17:00\nS202\n\n\nLecture\nMonday, 10:00 - 11:30\nS202"
   },
   {
     "objectID": "course-syllabus.html#learning-objectives",
     "href": "course-syllabus.html#learning-objectives",
     "title": "Syllabus",
     "section": "2 Learning objectives",
-    "text": "2 Learning objectives\nThis course teaches you the fundamentals of data visualization and how to communicate effectively with data using Python. With visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.\nBy the end of the semester, you will be able to…\n\nUnderstand the importance of context and audience\nDetermine the appropriate type of graph for your situation\nRecognize and eliminate the clutter clouding your information\nDirect your audience’s attention to the most important parts of your data\nThink like a designer and utilize concepts of design in data visualization\nLeverage the power of storytelling to help your message resonate with your audience\nuse Python to analyze, prepare and visualize data\ncreate dashboards with Streamlit and reports in Quarto"
+    "text": "2 Learning objectives\nThis course teaches you the fundamentals of data visualization and how to communicate effectively with data using Python. With visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.\nBy the end of the semester, you will be able to…\n\nUnderstand the importance of context and audience\nDetermine the appropriate type of graph for your situation\nRecognize and eliminate the clutter clouding your information\nDirect your audience’s attention to the most important parts of your data\nThink like a designer and utilize concepts of design in data visualization\nLeverage the power of storytelling to help your message resonate with your audience\nuse Python and other tools to analyze, prepare and visualize data\ncreate dashboards with Streamlit and reports in Quarto"
   },
   {
     "objectID": "course-syllabus.html#where-to-get-help",
