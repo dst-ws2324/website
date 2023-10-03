@@ -6,10 +6,10 @@ number-sections: true
 
 ## Course info
 
-           | Day       | Time              | Location |
-|-----------|-----------|-------------------|----------|
-| Kick-off   | 25.09.-27.09    | 09:00  - 17:00  |  S202  |
-| Lecture   |  Monday   | 10:00  - 11:30  |  S202  |
+| Day       | Time         | Location          |
+|-----------|-----------   |-------------------|
+| Kick-off   | 25.09.-27.09, 09:00  - 17:00  |  S202  |
+| Lecture   |  Monday, 10:00  - 11:30        |  S202  |
 
 
 
@@ -26,7 +26,7 @@ By the end of the semester, you will be able to...
 - Direct your audience's attention to the most important parts of your data
 - Think like a designer and utilize concepts of design in data visualization
 - Leverage the power of storytelling to help your message resonate with your audience
-- use Python to analyze, prepare and visualize data 
+- use Python and other tools to analyze, prepare and visualize data 
 - create dashboards with Streamlit and reports in Quarto
 
 
