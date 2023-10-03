@@ -12,7 +12,6 @@ number-sections: true
 | Lecture   |  Monday, 10:00  - 11:30        |  S202  |
 
 
-
 ## Learning objectives
 
 
