@@ -10,4 +10,17 @@ This schedule will be updated as the semester progresses.
 :::
 
 
-
+|	Nr	|	Date	|	Content	|	Material	|
+|	---	|	---	    |	---	    |	---	        |
+|	1	|	05.10.	|	Data storytelling	|		|
+|	2	|	05.10.	|	Data driven decision making	|		|
+|	3	|	05.10.	|	The importance of context	|		|
+|	4	|	05.10.	|	Pet shelter case study	|		|
+|	5	|	05.10.	|	Back to school sale case study	|		|
+|	6	|	05.10.	|	Big idea worksheet	|		|
+|	7	|	05.10.	|	Narrow your audience	|		|
+|	8	|	05.10.	|	Storyboard 1	|		|
+|	9	|	05.10.	|	Storyboard 2	|		|
+|	10	|	05.10.	|	Choose an appropriate display	|		|
+|	11	|	05.10.	|	Display exercise 2-1	|		|
+|	12	|	05.10.	|	Display exercise 2-2	|		|
