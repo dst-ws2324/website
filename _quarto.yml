@@ -59,16 +59,10 @@ website:
             text: Support
           - href: index.qmd
             text: Schedule
-          - href: course-links.qmd
-            text: Useful links
-          - href: course-faq.qmd
-            text: FAQ
       - section: "Programming"
         contents:
           - href: programming-requirements.qmd
             text: Requirements
-          - href: programming-troubleshooting.qmd
-            text: Troubleshooting
       - section: "Project"
         contents:
           - href: project-description.qmd
@@ -82,7 +76,7 @@ format:
     toc: true
     theme:
       light: [cosmo, style/course.scss]
-      dark: [cosmo, style/course.scss, style/dark.scss]
+      dark: [cosmo, style/dark.scss]
     mainfont: "Atkinson Hyperlegible"
     code-copy: true
     code-overflow: wrap
