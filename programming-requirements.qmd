@@ -4,8 +4,8 @@ title: "Requirements"
 
 For this course you will need the following setup:
 
-- **Python**: Anaconda, Anaconda Environment `gradio` and Visual Studio Code
-- **Environment**: HuggingFace API key; OpenAI API and an environment file with your APIs
+- **Python**: Anaconda, Anaconda Environment `dst` and Visual Studio Code
+- **GitHub**: Create a GitHub Organization for your team and use GitHub Projects
 
 :::{.callout-important}
 Visit the "[Programming Toolkit-webpage](https://kirenz.github.io/lab-toolkit/)" to learn how to meet all requirements.
