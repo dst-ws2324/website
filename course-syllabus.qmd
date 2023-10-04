@@ -72,24 +72,24 @@ You are expected to make use of GitHub as the central collaborative platform. [C
 
 Assessment for the course is comprised of these components: 
 
-- [data literacy for all course](@sec-course)
-- [homework assignments](@sec-hw) 
-- [project](@sec-project)
+- Complete the course "Data Literacy for All"
+- Homework assignments 
+- Project
 
 
-### Data Literacy for All {#sec-course}
-
-Learn fundamental data skills at your own pace. Find out the basics for developing, analyzing, and making decisions with data. The course series [Data Literacy for All](https://elearning-samples.tableau.com/page/data-literacy) is provided by Tableau and covers key topics, including understanding data types, basic statistics concepts, and interpreting visualizations. 
+### Data Literacy for All 
 
 Learn how to explore, understand, and communicate data insights and enable more informed decisions. Regardless of your skill level, you will gain confidence in your ability to explore, understand, and communicate with data that will benefit your career development or enhance your education.
 
+The course series [Data Literacy for All](https://elearning-samples.tableau.com/page/data-literacy) is provided by Tableau and covers key topics, including understanding data types, basic statistics concepts, and interpreting visualizations. 
 
-### Homework {#sec-hw}
+
+### Homework 
 
 In homeworks (HW), you will apply what you've learned during lectures to complete data analysis and visualization tasks. You may discuss homework assignments with other students; however, homework should be completed and **submitted individually**.
 
 
-### Project {#sec-project}
+### Project 
 
 The purpose of the [project](project-description.qmd) is to apply what you've learned throughout the semester. The project will be completed in **teams**.
 
