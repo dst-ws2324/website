@@ -12,11 +12,11 @@ This schedule will be updated as the semester progresses.
 |	Nr	|	Date	|	Content	|		Material		|	
 |	---	|	---	|	---	|		---		|	
 |	1	|	05.10.	|	Data storytelling	|		[📑](https://docs.google.com/presentation/d/1irnXZ4O9d3xVypWxOkViNmUzqr5Q1dVRuxi17VAmKaM/export/pdf)		|	
-|	2	|	05.10.	|	The importance of context	|	<!--	[📑](https://docs.google.com/presentation/d/1XXsxfPoo2kCCnR8FZ6Bs4CGpfx81_vck-VY2C7meEOM/export/pdf)	-->	|	
-|	3	|	05.10.	|	Pet shelter case study	|	<!--	[📑](https://docs.google.com/presentation/d/1L-QNkIez3WQ6jt4lwUv_Sf-UokwwlgL3Og5drO5Vs18/export/pdf)	-->	|	
+|	2	|	05.10.	|	The importance of context	|		[📑](https://docs.google.com/presentation/d/1XXsxfPoo2kCCnR8FZ6Bs4CGpfx81_vck-VY2C7meEOM/export/pdf)		|	
+|	3	|	05.10.	|	Pet shelter case study	|		[📑](https://docs.google.com/presentation/d/1L-QNkIez3WQ6jt4lwUv_Sf-UokwwlgL3Og5drO5Vs18/export/pdf)		|	
 |	4	|	05.10.	|	Back to school sale case study	|		[📑](https://docs.google.com/presentation/d/1_jGHyu0aKsQk7jxOmHgscreCrfcqrp9WbQdtWyg087o/export/pdf)		|	
 |	5	|	05.10.	|	Big idea worksheet	|		[📑](https://docs.google.com/document/d/1-GZvhdbhLYLB_Bo1arj1rgTqbJ5SUoU21vtgbYEhVqk/edit?usp=sharing)		|	
 |	6	|	05.10.	|	Narrow your audience	|		[📑](https://docs.google.com/document/d/1Eu21TCIM0Lx6LiybPG-15ikk0gkRaqbCQNtcl3fAfGQ/edit?usp=sharing)		|	
 |	7	|	05.10.	|	Storyboard 1	|		[📑](https://docs.google.com/document/d/1cuiBZiWaUkhAYNkQo6SWtWm8n_Q1IJt54lw0Na2-0DE/edit?usp=sharing)		|	
 |	8	|	05.10.	|	Storyboard 2	|		[📑](https://docs.google.com/document/d/1WeLzE85YfM-F9-vAIhEbeJHkuHsN3xtovzIokB93BRU/edit?usp=sharing)		|	
-|	9	|	05.10.	|	Choose an appropriate display	|	<!--	[📑](https://docs.google.com/presentation/d/1-uFVcFI7Y1ShyToEzahbg0VlkLnyn7A5Dq7NaHrZmU0/export/pdf)	-->	|	
+|	9	|	05.10.	|	Pandas introduction lab	|		[📑](https://docs.google.com/presentation/d/1P0Qgi5QG8x2NfwFXia0QsFQ4Vgt4zvwZXAvFwO-qKwc/export/pdf)		|	
