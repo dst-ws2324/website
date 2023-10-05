@@ -19,4 +19,10 @@ This schedule will be updated as the semester progresses.
 |	6	|	05.10.	|	Narrow your audience	|		[📑](https://docs.google.com/document/d/1Eu21TCIM0Lx6LiybPG-15ikk0gkRaqbCQNtcl3fAfGQ/edit?usp=sharing)		|	
 |	7	|	05.10.	|	Storyboard 1	|		[📑](https://docs.google.com/document/d/1cuiBZiWaUkhAYNkQo6SWtWm8n_Q1IJt54lw0Na2-0DE/edit?usp=sharing)		|	
 |	8	|	05.10.	|	Storyboard 2	|		[📑](https://docs.google.com/document/d/1WeLzE85YfM-F9-vAIhEbeJHkuHsN3xtovzIokB93BRU/edit?usp=sharing)		|	
-|	9	|	05.10.	|	Pandas introduction lab	|		[📑](https://docs.google.com/presentation/d/1P0Qgi5QG8x2NfwFXia0QsFQ4Vgt4zvwZXAvFwO-qKwc/export/pdf)		|	
+|	9	|	05.10.	|	Pandas introduction lab	|		[🖥️](https://kirenz.github.io/lab-pandas-intro)		|	
+|	10	|	05.10.	|	Data basics	|	<!--	[📑](https://docs.google.com/presentation/d/1IlR_HTTNE865xiT3GlXD5_RNZDMMtlbNKRftLXPPmsw/export/pdf)	-->	|	
+|	11	|	05.10.	|	Loans data	|	<!--	[📑](https://docs.google.com/presentation/d/1o0TVpTvndPA1J23CdTtEThYSekjudkGXuW9HiEA65yc/export/pdf)	-->	|	
+|	12	|	05.10.	|	Simple bar chart	|	<!--	[📑](https://docs.google.com/presentation/d/1RpYvnIxE5QCK3-urCa76CHUvDqOKlFb7TdAn6XgYjew/export/pdf)	-->	|	
+|	13	|	05.10.	|	Stacked bar plot	|	<!--	[📑](https://docs.google.com/presentation/d/1TU5pqJqfgzcBRitDtSxjdRPhwl2TM9Rt3u3FHTPT020/export/pdf)	-->	|	
+|	14	|	05.10.	|	Standardized bar plot	|	<!--	[📑](https://docs.google.com/presentation/d/1BV7XwkZLfTMe5acsDomL3pcSsNhatpswRa11XuzNuLQ/export/pdf)	-->	|	
+|	15	|	05.10.	|	Scatterplot	|	<!--	[📑](https://docs.google.com/presentation/d/1K13NYtk-fXgIZCszUWkSN1FWqLPf8Ey8U7l9YZSQDtU/export/pdf)	-->	|	
