@@ -9,20 +9,18 @@ This page contains an outline of the topics, content, and assignments for the se
 This schedule will be updated as the semester progresses.
 :::
 
-|	Nr	|	Date	|	Content	|		Material		|	Link	|	Data	|	
-|	---	|	---	|	---	|		---		|	---	|	---	|	
-|	1	|	05.10.	|	Data storytelling	|		[📑](https://docs.google.com/presentation/d/1irnXZ4O9d3xVypWxOkViNmUzqr5Q1dVRuxi17VAmKaM/export/pdf)		|		|		|	
-|	2	|	05.10.	|	The importance of context	|		[📑](https://docs.google.com/presentation/d/1XXsxfPoo2kCCnR8FZ6Bs4CGpfx81_vck-VY2C7meEOM/export/pdf)		|		|		|	
-|	3	|	05.10.	|	Pet shelter case study	|		[📑](https://docs.google.com/presentation/d/1L-QNkIez3WQ6jt4lwUv_Sf-UokwwlgL3Og5drO5Vs18/export/pdf)		|		|		|	
-|	4	|	05.10.	|	Back to school sale case study	|		[📑](https://docs.google.com/presentation/d/1_jGHyu0aKsQk7jxOmHgscreCrfcqrp9WbQdtWyg087o/export/pdf)		|		|		|	
-|	5	|	05.10.	|	Big idea worksheet	|		[📑](https://docs.google.com/document/d/1-GZvhdbhLYLB_Bo1arj1rgTqbJ5SUoU21vtgbYEhVqk/edit?usp=sharing)		|		|		|	
-|	6	|	05.10.	|	Narrow your audience	|		[📑](https://docs.google.com/document/d/1Eu21TCIM0Lx6LiybPG-15ikk0gkRaqbCQNtcl3fAfGQ/edit?usp=sharing)		|		|		|	
-|	7	|	05.10.	|	Storyboard 1	|		[📑](https://docs.google.com/document/d/1cuiBZiWaUkhAYNkQo6SWtWm8n_Q1IJt54lw0Na2-0DE/edit?usp=sharing)		|		|		|	
-|	8	|	05.10.	|	Storyboard 2	|		[📑](https://docs.google.com/document/d/1WeLzE85YfM-F9-vAIhEbeJHkuHsN3xtovzIokB93BRU/edit?usp=sharing)		|		|		|	
-|	9	|	05.10.	|	Pandas introduction lab	|		[🖥️](https://kirenz.github.io/lab-pandas-intro)		|		|		|	
-|	10	|	05.10.	|	Choose an appropriate display	|		[📑](https://docs.google.com/presentation/d/1-uFVcFI7Y1ShyToEzahbg0VlkLnyn7A5Dq7NaHrZmU0/export/pdf)		|		|		|	
-|	11	|	16.10.	|	Data basics	|	<!--	[📑](https://docs.google.com/presentation/d/1IlR_HTTNE865xiT3GlXD5_RNZDMMtlbNKRftLXPPmsw/export/pdf)	-->	|	[📝](https://miro.com/app/board/uXjVNbJmXUQ=/)	|	[💽 loan50.csv](https://raw.githubusercontent.com/kirenz/datasets/master/loan50.csv)	|	
-|	12	|	16.10.	|	Simple bar chart	|	<!--	[📑](https://docs.google.com/presentation/d/1RpYvnIxE5QCK3-urCa76CHUvDqOKlFb7TdAn6XgYjew/export/pdf)	-->	|		|	[💽 loan50.csv](https://raw.githubusercontent.com/kirenz/datasets/master/loan50.csv)	|	
-|	13	|	16.10.	|	Stacked bar plot	|	<!--	[📑](https://docs.google.com/presentation/d/1TU5pqJqfgzcBRitDtSxjdRPhwl2TM9Rt3u3FHTPT020/export/pdf)	-->	|		|	[💽 loan50.csv](https://raw.githubusercontent.com/kirenz/datasets/master/loan50.csv)	|	
-|	14	|	16.10.	|	Standardized bar plot	|	<!--	[📑](https://docs.google.com/presentation/d/1BV7XwkZLfTMe5acsDomL3pcSsNhatpswRa11XuzNuLQ/export/pdf)	-->	|		|	[💽 loan50.csv](https://raw.githubusercontent.com/kirenz/datasets/master/loan50.csv)	|	
-|	15	|	16.10.	|	Scatterplot	|	<!--	[📑](https://docs.google.com/presentation/d/1K13NYtk-fXgIZCszUWkSN1FWqLPf8Ey8U7l9YZSQDtU/export/pdf)	-->	|		|	[💽 loan50.csv](https://raw.githubusercontent.com/kirenz/datasets/master/loan50.csv)	|	
+
+|	Nr	|	Date	|	Content	|		Material		|	Link	|	Data	|		
+|	---	|	---	|	---	|		---		|	---	|	---	|		
+|	1	|	05.10.	|	Data storytelling	|		[📑](https://docs.google.com/presentation/d/1irnXZ4O9d3xVypWxOkViNmUzqr5Q1dVRuxi17VAmKaM/export/pdf)		|		|		|		
+|	2	|	05.10.	|	The importance of context	|		[📑](https://docs.google.com/presentation/d/1XXsxfPoo2kCCnR8FZ6Bs4CGpfx81_vck-VY2C7meEOM/export/pdf)		|		|		|		
+|	3	|	05.10.	|	Pet shelter case study	|		[📑](https://docs.google.com/presentation/d/1L-QNkIez3WQ6jt4lwUv_Sf-UokwwlgL3Og5drO5Vs18/export/pdf)		|		|		|		
+|	4	|	05.10.	|	Back to school sale case study	|		[📑](https://docs.google.com/presentation/d/1_jGHyu0aKsQk7jxOmHgscreCrfcqrp9WbQdtWyg087o/export/pdf)		|		|		|		
+|	5	|	05.10.	|	Big idea worksheet	|		[📑](https://docs.google.com/document/d/1-GZvhdbhLYLB_Bo1arj1rgTqbJ5SUoU21vtgbYEhVqk/edit?usp=sharing)		|		|		|		
+|	6	|	05.10.	|	Narrow your audience	|		[📑](https://docs.google.com/document/d/1Eu21TCIM0Lx6LiybPG-15ikk0gkRaqbCQNtcl3fAfGQ/edit?usp=sharing)		|		|		|		
+|	7	|	05.10.	|	Storyboard 1	|		[📑](https://docs.google.com/document/d/1cuiBZiWaUkhAYNkQo6SWtWm8n_Q1IJt54lw0Na2-0DE/edit?usp=sharing)		|		|		|		
+|	8	|	05.10.	|	Storyboard 2	|		[📑](https://docs.google.com/document/d/1WeLzE85YfM-F9-vAIhEbeJHkuHsN3xtovzIokB93BRU/edit?usp=sharing)		|		|		|		
+|	9	|	05.10.	|	Pandas introduction lab	|		[🖥️](https://kirenz.github.io/lab-pandas-intro)		|		|		|		
+|	10	|	05.10.	|	Choose an appropriate display	|		[📑](https://docs.google.com/presentation/d/1-uFVcFI7Y1ShyToEzahbg0VlkLnyn7A5Dq7NaHrZmU0/export/pdf)		|		|		|		
+|	11	|	16.10.	|	Data basics	|		[📑](https://docs.google.com/presentation/d/1IlR_HTTNE865xiT3GlXD5_RNZDMMtlbNKRftLXPPmsw/export/pdf)		|	[📝](https://miro.com/app/board/uXjVNbJmXUQ=/)	|	[💽 loan50.csv](https://raw.githubusercontent.com/kirenz/datasets/master/loan50.csv)	|		
+|	12	|	16.10.	|	Simple bar chart	|		[📑](https://docs.google.com/presentation/d/1RpYvnIxE5QCK3-urCa76CHUvDqOKlFb7TdAn6XgYjew/export/pdf)		|		|	[💽 loan50.csv](https://raw.githubusercontent.com/kirenz/datasets/master/loan50.csv)	|		
