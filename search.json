@@ -1,52 +1,24 @@
 [
   {
-    "objectID": "course-overview.html",
-    "href": "course-overview.html",
-    "title": "Course overview",
+    "objectID": "programming-requirements.html",
+    "href": "programming-requirements.html",
+    "title": "Requirements",
     "section": "",
-    "text": "Data storytelling is a pivotal skill in the modern data-driven world, acting as a bridge between raw data and meaningful insights. It entails the use of visual elements and narrative techniques to convey complex data insights in an engaging and understandable manner.\nBy transforming dry figures into compelling stories, data storytelling not only simplifies the understanding of complex analyses but also captivates the audience’s attention, making the data memorable and impactful. It fosters a deeper connection between the data and the audience, enabling better decision-making and promoting a culture of informed, data-driven discourse within organizations and the broader community.\nThrough data storytelling, we harness the power of both analytical and creative thinking to derive and communicate meaningful insights from the data, fostering a richer comprehension and appreciation of the stories that data unfolds.\nThis course teaches you the fundamentals of data visualization and how to communicate effectively with data using Python. With visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data."
+    "text": "For this course you will need the following setup:\n\nPython: Anaconda, Anaconda Environment dst and Visual Studio Code\nGitHub: Create a GitHub Organization for your team and use GitHub Projects\n\n\n\n\n\n\n\nImportant\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to meet all requirements."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data Storytelling",
+    "objectID": "project-tips-resources.html",
+    "href": "project-tips-resources.html",
+    "title": "Project tips + resources",
     "section": "",
-    "text": "This page contains an outline of the topics, content, and assignments for the semester.\n\n\n\n\n\n\nNote\n\n\n\nThis schedule will be updated as the semester progresses.\n\n\n\n\n\nNr\nDate\nContent\nMaterial\nLink\nData\n\n\n\n\n1\n05.10.\nData storytelling\n📑\n\n\n\n\n2\n05.10.\nThe importance of context\n📑\n\n\n\n\n3\n05.10.\nPet shelter case study\n📑\n\n\n\n\n4\n05.10.\nBack to school sale case study\n📑\n\n\n\n\n5\n05.10.\nBig idea worksheet\n📑\n\n\n\n\n6\n05.10.\nNarrow your audience\n📑\n\n\n\n\n7\n05.10.\nStoryboard 1\n📑\n\n\n\n\n8\n05.10.\nStoryboard 2\n📑\n\n\n\n\n9\n05.10.\nPandas introduction lab\n🖥️\n\n\n\n\n10\n05.10.\nChoose an appropriate display\n📑\n\n\n\n\n11\n16.10.\nData basics\n📑\n📝\n💽 loan50.csv\n\n\n12\n16.10.\nSimple bar chart\n📑\n\n💽 loan50.csv"
+    "text": "Some resources that may be helpful to find data:\n\nCollection of Open Datasets\nOpen Government Data (D-A-CH-LI)\nEU Open Data\nStatistisches Bundesamt\nRegionalstatistik\nGermany Zensus2011\nOECD\nWorld Health Organization\nThe National Bureau of Economic Research\nInternational Monetary Fund\nGeneral Social Survey\nUnited Nations Data\nUnited Nations Statistics Division\nU.K. Data\nU.S. Data\nU.S. Census Data\nEuropean Statistics\nStatistics Canada\nPew Research\nUNICEF\nCDC\nWorld Bank\nElection Studies"
   },
   {
-    "objectID": "course-support.html",
-    "href": "course-support.html",
-    "title": "Course support",
+    "objectID": "project-tips-resources.html#data-sources",
+    "href": "project-tips-resources.html#data-sources",
+    "title": "Project tips + resources",
     "section": "",
-    "text": "If you have a question during lecture, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone."
-  },
-  {
-    "objectID": "course-support.html#lectures",
-    "href": "course-support.html#lectures",
-    "title": "Course support",
-    "section": "",
-    "text": "If you have a question during lecture, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone."
-  },
-  {
-    "objectID": "course-support.html#discussion-forum",
-    "href": "course-support.html#discussion-forum",
-    "title": "Course support",
-    "section": "Discussion forum",
-    "text": "Discussion forum\nPrefer to write out your question in detail rather than asking in person? The online discussion forum is the best venue for these! We will use the Moodle forum as the online discussion forum. There is a chance another student has already asked a similar question, so please check the other posts before adding a new question. If you know the answer to a question that is posted, I encourage you to respond!"
-  },
-  {
-    "objectID": "course-support.html#email",
-    "href": "course-support.html#email",
-    "title": "Course support",
-    "section": "Email",
-    "text": "Email\nPlease refrain from emailing any course content questions (those should go to Moodle), and only use email for questions about personal matters that may not be appropriate for the public course forum. For such matters, you may email me at kirenz@hdm-stuttgart.de.\nIf there is a question that’s not appropriate for the public forum, you are welcome to email me directly. If you email me, please include the name of our course in the subject line."
-  },
-  {
-    "objectID": "course-support.html#academic-support",
-    "href": "course-support.html#academic-support",
-    "title": "Course support",
-    "section": "Academic support",
-    "text": "Academic support\nThere are times you may need help with the class that is beyond what can be provided by the teaching team. In those instances, I encourage you to visit the Center for Learning and Development: it offers free services to all students."
+    "text": "Some resources that may be helpful to find data:\n\nCollection of Open Datasets\nOpen Government Data (D-A-CH-LI)\nEU Open Data\nStatistisches Bundesamt\nRegionalstatistik\nGermany Zensus2011\nOECD\nWorld Health Organization\nThe National Bureau of Economic Research\nInternational Monetary Fund\nGeneral Social Survey\nUnited Nations Data\nUnited Nations Statistics Division\nU.K. Data\nU.S. Data\nU.S. Census Data\nEuropean Statistics\nStatistics Canada\nPew Research\nUNICEF\nCDC\nWorld Bank\nElection Studies"
   },
   {
     "objectID": "course-syllabus.html",
@@ -119,48 +91,6 @@
     "text": "9 Course policies\n\n9.1 Academic integrity\nTL;DR: Don’t cheat!\nAll students must adhere to the academic integrity standard. Students affirm their commitment to uphold the values by signing a pledge that states:\n\nI will not lie, cheat, or steal in my academic endeavors;\nI will conduct myself honorably in all my endeavors;\nI will act if the standard is compromised\n\nRegardless of the course delivery format, it is your responsibility to understand and follow HdM policies regarding academic integrity, including doing one’s own work, following proper citation of sources, and adhering to guidance around group work projects.\n\n\n9.2 Collaboration policy\nOnly work that is clearly assigned as team work should be completed collaboratively.\n\nThe homework assignments must be completed individually and you are welcomed to discuss the assignment with classmates at a high level (e.g., discuss what’s the best way for approaching a problem, what functions are useful for accomplishing a particular task, etc.). However you may not directly share answers to homework questions (including any code) with anyone other than myself and the teaching assistants.\nFor the project, collaboration within teams is not only allowed, but expected (use GitHub Projects). Communication between teams at a high level is also allowed however you may not share code or components of the project across teams.\n\n\n\n9.3 Policy on sharing and reusing code\nI am well aware that a huge volume of code is available on the web to solve any number of problems.\nUnless I explicitly tell you not to use something, the course’s policy is that you may make use of any online resources (e.g. StackOverflow) but you must explicitly cite where you obtained any code you directly use (or use as inspiration).\nAny recycled code that is discovered and is not explicitly cited will be treated as plagiarism.\nOn individual assignments you may not directly share code with another student in this class, and on team assignments you may not directly share code with another team in this class.\n\n\n9.4 Late work policy\nThe due dates for assignments are there to help you keep up with the course material. However, I understand that things come up periodically that could make it difficult to submit an assignment by the deadline. Here are the rules for late submissions:\n\nHomeworks may be submitted up to 3 days late. There will be a 25% deduction for each 24-hour period the assignment is late.\nProject may be submitted up to 2 days late. There will be a 25% deduction for each 24-hour period the project task is late.\n\nIf there are important circumstances that prevent you from completing a lab or homework assignment by the stated due date, you may email me at kirenz@hdm-stuttgart.de before the deadline."
   },
   {
-    "objectID": "programming-requirements.html",
-    "href": "programming-requirements.html",
-    "title": "Requirements",
-    "section": "",
-    "text": "For this course you will need the following setup:\n\nPython: Anaconda, Anaconda Environment dst and Visual Studio Code\nGitHub: Create a GitHub Organization for your team and use GitHub Projects\n\n\n\n\n\n\n\nImportant\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to meet all requirements."
-  },
-  {
-    "objectID": "project-tips-resources.html",
-    "href": "project-tips-resources.html",
-    "title": "Project tips + resources",
-    "section": "",
-    "text": "Some resources that may be helpful to find data:\n\nCollection of Open Datasets\nOpen Government Data (D-A-CH-LI)\nEU Open Data\nStatistisches Bundesamt\nRegionalstatistik\nGermany Zensus2011\nOECD\nWorld Health Organization\nThe National Bureau of Economic Research\nInternational Monetary Fund\nGeneral Social Survey\nUnited Nations Data\nUnited Nations Statistics Division\nU.K. Data\nU.S. Data\nU.S. Census Data\nEuropean Statistics\nStatistics Canada\nPew Research\nUNICEF\nCDC\nWorld Bank\nElection Studies"
-  },
-  {
-    "objectID": "project-tips-resources.html#data-sources",
-    "href": "project-tips-resources.html#data-sources",
-    "title": "Project tips + resources",
-    "section": "",
-    "text": "Some resources that may be helpful to find data:\n\nCollection of Open Datasets\nOpen Government Data (D-A-CH-LI)\nEU Open Data\nStatistisches Bundesamt\nRegionalstatistik\nGermany Zensus2011\nOECD\nWorld Health Organization\nThe National Bureau of Economic Research\nInternational Monetary Fund\nGeneral Social Survey\nUnited Nations Data\nUnited Nations Statistics Division\nU.K. Data\nU.S. Data\nU.S. Census Data\nEuropean Statistics\nStatistics Canada\nPew Research\nUNICEF\nCDC\nWorld Bank\nElection Studies"
-  },
-  {
-    "objectID": "code/notebook.html",
-    "href": "code/notebook.html",
-    "title": "Notebook",
-    "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
-  },
-  {
-    "objectID": "code/notebook.html#setup",
-    "href": "code/notebook.html#setup",
-    "title": "Notebook",
-    "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
-  },
-  {
-    "objectID": "code/notebook.html#data",
-    "href": "code/notebook.html#data",
-    "title": "Notebook",
-    "section": "Data",
-    "text": "Data"
-  },
-  {
     "objectID": "project-description.html",
     "href": "project-description.html",
     "title": "Project description",
@@ -208,5 +138,75 @@
     "title": "Project description",
     "section": "6 Points Breakdown",
     "text": "6 Points Breakdown"
+  },
+  {
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "Course overview",
+    "section": "",
+    "text": "Data storytelling is a pivotal skill in the modern data-driven world, acting as a bridge between raw data and meaningful insights. It entails the use of visual elements and narrative techniques to convey complex data insights in an engaging and understandable manner.\nBy transforming dry figures into compelling stories, data storytelling not only simplifies the understanding of complex analyses but also captivates the audience’s attention, making the data memorable and impactful. It fosters a deeper connection between the data and the audience, enabling better decision-making and promoting a culture of informed, data-driven discourse within organizations and the broader community.\nThrough data storytelling, we harness the power of both analytical and creative thinking to derive and communicate meaningful insights from the data, fostering a richer comprehension and appreciation of the stories that data unfolds.\nThis course teaches you the fundamentals of data visualization and how to communicate effectively with data using Python. With visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data."
+  },
+  {
+    "objectID": "course-support.html",
+    "href": "course-support.html",
+    "title": "Course support",
+    "section": "",
+    "text": "If you have a question during lecture, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone."
+  },
+  {
+    "objectID": "course-support.html#lectures",
+    "href": "course-support.html#lectures",
+    "title": "Course support",
+    "section": "",
+    "text": "If you have a question during lecture, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone."
+  },
+  {
+    "objectID": "course-support.html#discussion-forum",
+    "href": "course-support.html#discussion-forum",
+    "title": "Course support",
+    "section": "Discussion forum",
+    "text": "Discussion forum\nPrefer to write out your question in detail rather than asking in person? The online discussion forum is the best venue for these! We will use the Moodle forum as the online discussion forum. There is a chance another student has already asked a similar question, so please check the other posts before adding a new question. If you know the answer to a question that is posted, I encourage you to respond!"
+  },
+  {
+    "objectID": "course-support.html#email",
+    "href": "course-support.html#email",
+    "title": "Course support",
+    "section": "Email",
+    "text": "Email\nPlease refrain from emailing any course content questions (those should go to Moodle), and only use email for questions about personal matters that may not be appropriate for the public course forum. For such matters, you may email me at kirenz@hdm-stuttgart.de.\nIf there is a question that’s not appropriate for the public forum, you are welcome to email me directly. If you email me, please include the name of our course in the subject line."
+  },
+  {
+    "objectID": "course-support.html#academic-support",
+    "href": "course-support.html#academic-support",
+    "title": "Course support",
+    "section": "Academic support",
+    "text": "Academic support\nThere are times you may need help with the class that is beyond what can be provided by the teaching team. In those instances, I encourage you to visit the Center for Learning and Development: it offers free services to all students."
+  },
+  {
+    "objectID": "code/notebook.html",
+    "href": "code/notebook.html",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#setup",
+    "href": "code/notebook.html#setup",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#data",
+    "href": "code/notebook.html#data",
+    "title": "Notebook",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Storytelling",
+    "section": "",
+    "text": "This page contains an outline of the topics, content, and assignments for the semester.\n\n\n\n\n\n\nNote\n\n\n\nThis schedule will be updated as the semester progresses.\n\n\n\n\n\nNr\nDate\nContent\nMaterial\nLink\nData\n\n\n\n\n1\n05.10.\nData storytelling\n📑\n\n\n\n\n2\n05.10.\nThe importance of context\n📑\n\n\n\n\n3\n05.10.\nPet shelter case study\n📑\n\n\n\n\n4\n05.10.\nBack to school sale case study\n📑\n\n\n\n\n5\n05.10.\nBig idea worksheet\n📑\n\n\n\n\n6\n05.10.\nNarrow your audience\n📑\n\n\n\n\n7\n05.10.\nStoryboard 1\n📑\n\n\n\n\n8\n05.10.\nStoryboard 2\n📑\n\n\n\n\n9\n05.10.\nPandas introduction lab\n🖥️\n\n\n\n\n10\n05.10.\nChoose an appropriate display\n📑\n\n\n\n\n11\n16.10.\nData basics\n📑\n📝\n💽 loan50.csv\n\n\n12\n16.10.\nSimple bar chart\n📑\n\n💽 loan50.csv\n\n\n13\n23.10.\nStacked bar plot\n\n\n💽 loan50.csv\n\n\n14\n23.10.\nStandardized bar plot\n\n\n\n\n\n15\n23.10.\nEliminate clutter"
   }
 ]
