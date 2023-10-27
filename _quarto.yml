@@ -39,7 +39,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/myplaceholder
+        href: https://github.com/dst-ws2324
         text: "GitHub organization"
       - icon: person-fill
         text: "Moodle"
