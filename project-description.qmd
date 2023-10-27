@@ -59,9 +59,6 @@ Total Points: 100
 You will work on the project with your team. 
 
 1. One team member should create a new **GitHub organization** and invite all other team members and me (my GitHub name is `kirenz`) to the organization.  
-2. Create a [GitHub Project](https://kirenz.github.io/lab-toolkit/github.html#github-projects) in your organization and use it to organize your work9
-3. Import this [Project template](https://github.com/dst-ws2324/project) to your organization (click on `use this template`).
-4. Import this [Documentation template](https://github.com/kirenz/documentation-template) to your organization (click on `use this template`)
+2. Create a [GitHub Project](https://kirenz.github.io/lab-toolkit/github.html#github-projects) in your organization and use it to organize your work.
+3. Import this [Documentation template](https://github.com/kirenz/documentation-template) to your organization (click on `use this template`)
 
-
-## Points Breakdown
