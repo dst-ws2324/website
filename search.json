@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "programming-requirements.html",
-    "href": "programming-requirements.html",
-    "title": "Requirements",
-    "section": "",
-    "text": "For this course you will need the following setup:\n\nPython: Anaconda, Anaconda Environment dst and Visual Studio Code\nGitHub: Create a GitHub Organization for your team and use GitHub Projects\n\n\n\n\n\n\n\nImportant\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to meet all requirements."
-  },
-  {
-    "objectID": "project-tips-resources.html",
-    "href": "project-tips-resources.html",
-    "title": "Project tips + resources",
-    "section": "",
-    "text": "Some resources that may be helpful to find data:\n\nCollection of Open Datasets\nOpen Government Data (D-A-CH-LI)\nEU Open Data\nStatistisches Bundesamt\nRegionalstatistik\nGermany Zensus2011\nOECD\nWorld Health Organization\nThe National Bureau of Economic Research\nInternational Monetary Fund\nGeneral Social Survey\nUnited Nations Data\nUnited Nations Statistics Division\nU.K. Data\nU.S. Data\nU.S. Census Data\nEuropean Statistics\nStatistics Canada\nPew Research\nUNICEF\nCDC\nWorld Bank\nElection Studies"
-  },
-  {
-    "objectID": "project-tips-resources.html#data-sources",
-    "href": "project-tips-resources.html#data-sources",
-    "title": "Project tips + resources",
-    "section": "",
-    "text": "Some resources that may be helpful to find data:\n\nCollection of Open Datasets\nOpen Government Data (D-A-CH-LI)\nEU Open Data\nStatistisches Bundesamt\nRegionalstatistik\nGermany Zensus2011\nOECD\nWorld Health Organization\nThe National Bureau of Economic Research\nInternational Monetary Fund\nGeneral Social Survey\nUnited Nations Data\nUnited Nations Statistics Division\nU.K. Data\nU.S. Data\nU.S. Census Data\nEuropean Statistics\nStatistics Canada\nPew Research\nUNICEF\nCDC\nWorld Bank\nElection Studies"
-  },
-  {
     "objectID": "course-syllabus.html",
     "href": "course-syllabus.html",
     "title": "Syllabus",
@@ -130,21 +109,42 @@
     "href": "project-description.html#github-organization",
     "title": "Project description",
     "section": "5 GitHub Organization",
-    "text": "5 GitHub Organization\nYou will work on the project with your team.\n\nOne team member should create a new GitHub organization and invite all other team members and me (my GitHub name is kirenz) to the organization.\n\nCreate a GitHub Project in your organization and use it to organize your work9\nImport this Project template to your organization (click on use this template).\nImport this Documentation template to your organization (click on use this template)"
+    "text": "5 GitHub Organization\nYou will work on the project with your team.\n\nOne team member should create a new GitHub organization and invite all other team members and me (my GitHub name is kirenz) to the organization.\n\nCreate a GitHub Project in your organization and use it to organize your work.\nImport this Documentation template to your organization (click on use this template)"
   },
   {
-    "objectID": "project-description.html#points-breakdown",
-    "href": "project-description.html#points-breakdown",
-    "title": "Project description",
-    "section": "6 Points Breakdown",
-    "text": "6 Points Breakdown"
-  },
-  {
-    "objectID": "course-overview.html",
-    "href": "course-overview.html",
-    "title": "Course overview",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Storytelling",
     "section": "",
-    "text": "Data storytelling is a pivotal skill in the modern data-driven world, acting as a bridge between raw data and meaningful insights. It entails the use of visual elements and narrative techniques to convey complex data insights in an engaging and understandable manner.\nBy transforming dry figures into compelling stories, data storytelling not only simplifies the understanding of complex analyses but also captivates the audience’s attention, making the data memorable and impactful. It fosters a deeper connection between the data and the audience, enabling better decision-making and promoting a culture of informed, data-driven discourse within organizations and the broader community.\nThrough data storytelling, we harness the power of both analytical and creative thinking to derive and communicate meaningful insights from the data, fostering a richer comprehension and appreciation of the stories that data unfolds.\nThis course teaches you the fundamentals of data visualization and how to communicate effectively with data using Python. With visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data."
+    "text": "This page contains an outline of the topics, content, and assignments for the semester.\n\n\n\n\n\n\nNote\n\n\n\nThis schedule will be updated as the semester progresses.\n\n\n\n\n\nNr\nDate\nContent\nMaterial\nLink\nData\n\n\n\n\n1\n05.10.\nData storytelling\n📑\n\n\n\n\n2\n05.10.\nThe importance of context\n📑\n\n\n\n\n3\n05.10.\nPet shelter case study\n📑\n\n\n\n\n4\n05.10.\nBack to school sale case study\n📑\n\n\n\n\n5\n05.10.\nBig idea worksheet\n📑\n\n\n\n\n6\n05.10.\nNarrow your audience\n📑\n\n\n\n\n7\n05.10.\nStoryboard 1\n📑\n\n\n\n\n8\n05.10.\nStoryboard 2\n📑\n\n\n\n\n9\n05.10.\nPandas introduction lab\n🖥️\n\n\n\n\n10\n05.10.\nChoose an appropriate display\n📑\n\n\n\n\n11\n16.10.\nData basics\n📑\n📝\n💽 loan50.csv\n\n\n12\n16.10.\nSimple bar chart\n📑\n💻\n\n\n\n13\n23.10.\nStacked bar plot\n📑\n💻\n\n\n\n14\n23.10.\nStandardized bar plot\n📑\n💻\n\n\n\n15\n23.10.\nEliminate clutter\n📑"
+  },
+  {
+    "objectID": "programming-requirements.html",
+    "href": "programming-requirements.html",
+    "title": "Requirements",
+    "section": "",
+    "text": "For this course you will need the following setup:\n\nPython: Anaconda, Anaconda Environment dst and Visual Studio Code\nGitHub: Create a GitHub Organization for your team and use GitHub Projects\n\n\n\n\n\n\n\nImportant\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to meet all requirements."
+  },
+  {
+    "objectID": "code/notebook.html",
+    "href": "code/notebook.html",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#setup",
+    "href": "code/notebook.html#setup",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#data",
+    "href": "code/notebook.html#data",
+    "title": "Notebook",
+    "section": "Data",
+    "text": "Data"
   },
   {
     "objectID": "course-support.html",
@@ -182,31 +182,24 @@
     "text": "Academic support\nThere are times you may need help with the class that is beyond what can be provided by the teaching team. In those instances, I encourage you to visit the Center for Learning and Development: it offers free services to all students."
   },
   {
-    "objectID": "code/notebook.html",
-    "href": "code/notebook.html",
-    "title": "Notebook",
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "Course overview",
     "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+    "text": "Data storytelling is a pivotal skill in the modern data-driven world, acting as a bridge between raw data and meaningful insights. It entails the use of visual elements and narrative techniques to convey complex data insights in an engaging and understandable manner.\nBy transforming dry figures into compelling stories, data storytelling not only simplifies the understanding of complex analyses but also captivates the audience’s attention, making the data memorable and impactful. It fosters a deeper connection between the data and the audience, enabling better decision-making and promoting a culture of informed, data-driven discourse within organizations and the broader community.\nThrough data storytelling, we harness the power of both analytical and creative thinking to derive and communicate meaningful insights from the data, fostering a richer comprehension and appreciation of the stories that data unfolds.\nThis course teaches you the fundamentals of data visualization and how to communicate effectively with data using Python. With visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data."
   },
   {
-    "objectID": "code/notebook.html#setup",
-    "href": "code/notebook.html#setup",
-    "title": "Notebook",
+    "objectID": "project-tips-resources.html",
+    "href": "project-tips-resources.html",
+    "title": "Project tips + resources",
     "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+    "text": "Some resources that may be helpful to find data:\n\nCollection of Open Datasets\nOpen Government Data (D-A-CH-LI)\nEU Open Data\nStatistisches Bundesamt\nRegionalstatistik\nGermany Zensus2011\nOECD\nWorld Health Organization\nThe National Bureau of Economic Research\nInternational Monetary Fund\nGeneral Social Survey\nUnited Nations Data\nUnited Nations Statistics Division\nU.K. Data\nU.S. Data\nU.S. Census Data\nEuropean Statistics\nStatistics Canada\nPew Research\nUNICEF\nCDC\nWorld Bank\nElection Studies"
   },
   {
-    "objectID": "code/notebook.html#data",
-    "href": "code/notebook.html#data",
-    "title": "Notebook",
-    "section": "Data",
-    "text": "Data"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data Storytelling",
+    "objectID": "project-tips-resources.html#data-sources",
+    "href": "project-tips-resources.html#data-sources",
+    "title": "Project tips + resources",
     "section": "",
-    "text": "This page contains an outline of the topics, content, and assignments for the semester.\n\n\n\n\n\n\nNote\n\n\n\nThis schedule will be updated as the semester progresses.\n\n\n\n\n\nNr\nDate\nContent\nMaterial\nLink\nData\n\n\n\n\n1\n05.10.\nData storytelling\n📑\n\n\n\n\n2\n05.10.\nThe importance of context\n📑\n\n\n\n\n3\n05.10.\nPet shelter case study\n📑\n\n\n\n\n4\n05.10.\nBack to school sale case study\n📑\n\n\n\n\n5\n05.10.\nBig idea worksheet\n📑\n\n\n\n\n6\n05.10.\nNarrow your audience\n📑\n\n\n\n\n7\n05.10.\nStoryboard 1\n📑\n\n\n\n\n8\n05.10.\nStoryboard 2\n📑\n\n\n\n\n9\n05.10.\nPandas introduction lab\n🖥️\n\n\n\n\n10\n05.10.\nChoose an appropriate display\n📑\n\n\n\n\n11\n16.10.\nData basics\n📑\n📝\n💽 loan50.csv\n\n\n12\n16.10.\nSimple bar chart\n📑\n[💻 (https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/04-1-bar-chart-altair.ipynb)\n\n\n\n13\n23.10.\nStacked bar plot\n📑\n💻\n\n\n\n14\n23.10.\nStandardized bar plot\n📑\n💻\n\n\n\n15\n23.10.\nEliminate clutter\n📑"
+    "text": "Some resources that may be helpful to find data:\n\nCollection of Open Datasets\nOpen Government Data (D-A-CH-LI)\nEU Open Data\nStatistisches Bundesamt\nRegionalstatistik\nGermany Zensus2011\nOECD\nWorld Health Organization\nThe National Bureau of Economic Research\nInternational Monetary Fund\nGeneral Social Survey\nUnited Nations Data\nUnited Nations Statistics Division\nU.K. Data\nU.S. Data\nU.S. Census Data\nEuropean Statistics\nStatistics Canada\nPew Research\nUNICEF\nCDC\nWorld Bank\nElection Studies"
   }
 ]
