@@ -26,3 +26,5 @@ This schedule will be updated as the semester progresses.
 |	13	|	23.10.	|	Stacked bar plot	|		[📑](https://docs.google.com/presentation/d/1TU5pqJqfgzcBRitDtSxjdRPhwl2TM9Rt3u3FHTPT020/export/pdf)		|	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/04-2-stacked-bar-chart-altair.ipynb)	|		|	
 |	14	|	23.10.	|	Standardized bar plot	|		[📑](https://docs.google.com/presentation/d/1BV7XwkZLfTMe5acsDomL3pcSsNhatpswRa11XuzNuLQ/export/pdf)		|	[💻](https://colab.research.google.com/github/kirenz/lab-altair/blob/main/ae/04-2-standardized-bar-chart-altair.ipynb)	|		|	
 |	15	|	23.10.	|	Eliminate clutter	|		[📑](https://docs.google.com/presentation/d/1ixTCCx1xylQveXPwcV3g19fa_ZyXRJYXl69yG6kG7CE/export/pdf)		|		|		|	
+|	16	|	30.10.	|	Pandas introduction lab (part 2)	|				|		|		|	
+|	17	|	30.10.	|	Eliminate clutter exercise 3.4	|				|		|		|	
