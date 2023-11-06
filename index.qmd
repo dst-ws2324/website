@@ -28,3 +28,4 @@ This schedule will be updated as the semester progresses.
 |	15	|	23.10.	|	Eliminate clutter	|		[📑](https://docs.google.com/presentation/d/1ixTCCx1xylQveXPwcV3g19fa_ZyXRJYXl69yG6kG7CE/export/pdf)		|		|		|	
 |	16	|	30.10.	|	Pandas introduction lab (slide 7)	|		[🖥️](https://kirenz.github.io/lab-pandas-intro)		|		|		|	
 |	17	|	30.10.	|	Eliminate clutter exercise 3.4	|		[📑](https://docs.google.com/presentation/d/1PZ_jPgs8dy4bkX7tfLZSD4R3OvB0hCidXwAQImP22l0/export/pdf)		|	[📁](https://github.com/dst-ws2324/exercises)	|	[💽 3_4_data.csv](https://raw.githubusercontent.com/kirenz/datasets/master/3_4_data.csv)	|	
+|	18	|	06.11.	|	Focus attention	|		[📑](https://docs.google.com/presentation/d/1rwyx33EkV7ioIKee_d6ng6Sobi3eg1EFh2q36Yvx6Gc/export/pdf)		|	[📁](https://github.com/dst-ws2324/exercises/blob/main/annotations/altair_annotations_c.ipynb)	|		|	
