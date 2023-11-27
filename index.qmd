@@ -30,6 +30,7 @@ This schedule will be updated as the semester progresses.
 |	17	|	30.10.	|	Eliminate clutter exercise 3.4	|		[📑](https://docs.google.com/presentation/d/1PZ_jPgs8dy4bkX7tfLZSD4R3OvB0hCidXwAQImP22l0/export/pdf)		|	[📁](https://github.com/dst-ws2324/exercises)	|	[💽 3_4_data.csv](https://raw.githubusercontent.com/kirenz/datasets/master/3_4_data.csv)	|	
 |	18	|	06.11.	|	Focus attention	|		[📑](https://docs.google.com/presentation/d/1rwyx33EkV7ioIKee_d6ng6Sobi3eg1EFh2q36Yvx6Gc/export/pdf)		|	[📁](https://github.com/dst-ws2324/exercises/blob/main/annotations/altair_annotations_c.ipynb)	|		|	
 |	19	|	13.11.	|	Tell a story	|		[📑](https://docs.google.com/presentation/d/1L5GKC1UsWhMMCqs4ULA4jo7VZlrFInDn1dWif0KYRds/export/pdf)		|		|		|	
-|	20	|	13.11.	|	Reporting with Quarto	|	<!--	[🖥️](https://github.com/kirenz/reporting-quarto)	-->	|		|		|	
-|	21	|	13.11.	|	Streamlit dashboard	|	<!--	[🖥️](https://github.com/kirenz/streamlit-app)	-->	|		|	[Data](https://raw.githubusercontent.com/kirenz/datasets/master/oecd-new.csv)	|	
+|	20	|	13.11.	|	Reporting with Quarto	|		[🖥️](https://github.com/kirenz/reporting-quarto)		|		|		|	
+|	21	|	13.11.	|	Streamlit dashboard	|		[🖥️](https://github.com/kirenz/streamlit-app)		|		|	[Data](https://raw.githubusercontent.com/kirenz/datasets/master/oecd-new.csv)	|	
 |	22	|	20.11.	|	Streamlit & Quarto	|				|		|		|	
+|	23	|	27.11.	|	Streamlit & Quarto	|				|		|		|	
