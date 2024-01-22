@@ -123,7 +123,7 @@
     "href": "project-description.html#project-components",
     "title": "Project description",
     "section": "3 Project Components:",
-    "text": "3 Project Components:\n\nData Story as Presentation and Report (using Altair and Quarto)\nInteractive Dashboard (using Streamlit and Altair)\nDocumentation of Creation Process (in a Quarto online book with GitHub and GitHub Projects)"
+    "text": "3 Project Components:\n\nData Story as Presentation and Report (using Altair and Quarto; you can use Quarto or Streamlit to create the report)\nInteractive Dashboard (using Streamlit and Altair)\nDocumentation of Creation Process (in a Quarto online book with GitHub and GitHub Projects)"
   },
   {
     "objectID": "project-description.html#assessment-criteria",
