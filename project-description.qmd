@@ -38,6 +38,8 @@ The purpose of submitting project ideas is to give you time to find data for the
 - **Storytelling & Narrative (10 points)**: The story is clear, concise, insightful, and provides new perspectives on the data.
 - **Alignment with Knaflic's Principles (10 points)**: Demonstrated understanding and application of principles from "Storytelling with Data".
 
+Note on the report: You can create the report using a few selected plots. This is possible in Streamlit or Quarto. The aim is to explain the content of the charts in a visually appealing and easy-to-understand way with text.
+
 2. Interactive Dashboard with Streamlit and Altair (35 points)
 - **User Experience (10 points)**: Intuitive navigation, clear instructions, and responsive design in Streamlit.
 - **Interactivity (10 points)**: Effective use of Altair's and Streamlit's interactivity features to enhance user engagement.
