@@ -26,7 +26,7 @@ The purpose of submitting project ideas is to give you time to find data for the
 
 ## Project Components:
 
-1. **Data Story as Presentation and Report (using Altair and Quarto)**
+1. **Data Story as Presentation and Report (using Altair and Quarto; you can use Quarto or Streamlit to create the report)**
 2. **Interactive Dashboard (using Streamlit and Altair)**
 3. **Documentation of Creation Process (in a Quarto online book with GitHub and GitHub Projects)**
 
